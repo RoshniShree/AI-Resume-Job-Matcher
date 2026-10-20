@@ -94,7 +94,7 @@ Resumes can contain personal data. Use synthetic or anonymized samples in demons
 - Deploy the app to a hosting platform.
 
 ## Author
-Your Name — [GitHub Profile](https://github.com/YOUR-GITHUB-USERNAME)
+Roshni Shree- https://www.linkedin.com/in/roshni-shree-s-1abb2a22a
 
 ## License
 Choose a license before distributing this project. Add a `LICENSE` file if you decide to use one.
