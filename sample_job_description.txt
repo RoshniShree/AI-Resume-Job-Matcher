@@ -1,0 +1,8 @@
+Example job description (synthetic)
+
+Requirements:
+- Python programming
+- SQL
+- Data analysis
+- Git
+- Communication
